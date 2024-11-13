@@ -1,1 +1,1 @@
-![i](https://github.com/DaskyP/DaskyP/blob/main/README.gif)
+<img src="README.gif" alt="Profile gif" width="1000" />
